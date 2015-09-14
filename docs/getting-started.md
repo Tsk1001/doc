@@ -1,9 +1,0 @@
-# Getting Started With AdRout
-
-So you are going to need the following:
-
-[glos](http://docs.adrout.net/GLOSSARY.html#duck_typing)
-
-* Some build pipeline for a build server
-
-![](../images/logo.png)
