@@ -2,7 +2,7 @@
 
 So you are going to need the following:
 
-[glos](http://docs.adrout.net/docs/GLOSSARY.html#duck_typing)
+[glos](http://docs.adrout.net/GLOSSARY.html#duck_typing)
 
 * Some build pipeline for a build server
 
