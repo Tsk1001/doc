@@ -17,11 +17,11 @@ In the creation window fill:
 
 •	Name of the advertising campaign will be generated automatically 
 
-Click on the **Create** button.
+Click on the **CREATE** button.
 
 * ####Editing of the advertising company
 
-To continue the creation of advertising campaign, click on the **Settings**.
+To continue the creation of advertising campaign, click on the **SETTINGS**.
 
 Fill empty fields:
 
