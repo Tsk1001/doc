@@ -1,10 +1,3 @@
----
-layout: page
-title: "Getting started as advertiser"
-category: get
-order: 1
----
-
 ####How to start working with our system?
 
 1.Sign up in our website
