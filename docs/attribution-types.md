@@ -1,12 +1,3 @@
----
-layout: page
-title: "Attribution Types"
-category: gen
-order: 3
----
-
-
-
 
 To attribute and measure the transactions (installs, clicks, impressions), AdRout App Tracking System (ATS) uses three types of attribution:
 
