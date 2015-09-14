@@ -12,5 +12,5 @@
    * [Tracking Link](docs/tracking-link.md)
    * [Attribution Types](docs/attribution-types.md)
 * SDK Integration
-   * Android SDK
+   * [Android SDK](docs/Android-SDK.md)
 
