@@ -9,4 +9,5 @@
    * [Applications](docs/Applications.md)
    * [Advertising Campaign](docs/advertising-campaign.md)
 * SDK Integration
+* Glossary
 
