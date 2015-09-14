@@ -10,5 +10,6 @@
    * [Advertising Campaign](docs/advertising-campaign.md)
    * [Additional Parameters](docs/Additional-parameters.md)
    * [Tracking Link](docs/tracking-link.md)
+   * Attribution Types
 * [SDK Integration](docs/Android-SDK.md)
 
