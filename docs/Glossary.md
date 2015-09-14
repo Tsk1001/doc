@@ -1,9 +1,3 @@
----
-layout: page
-title: "Glossary"
-category: glos
-order: 1
----
 
 **Account Public Id** - it is an identifier that is used to define the accounts inside the system.   
 
