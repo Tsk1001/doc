@@ -8,5 +8,6 @@
    * [Company account](docs/company_account.md)
    * [Applications](docs/Applications.md)
    * [Advertising Campaign](docs/advertising-campaign.md)
+   * Additional Parameters
 * [SDK Integration](docs/Android-SDK.md)
 
