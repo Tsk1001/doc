@@ -6,4 +6,4 @@ So you are going to need the following:
 
 ![Atoms](../images/atomts.png)
 
-{% include "footer.md" %}
+![](../images/logo.png)
