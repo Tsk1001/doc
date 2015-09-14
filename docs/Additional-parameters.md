@@ -1,9 +1,4 @@
----
-layout: page
-title: "Additional Parameters"
-category: gen
-order: 5
----
+
 AdRout provide an opportunity to add 5 additional parameters, for example:
 
 *	sid1= the additional parameter #1
