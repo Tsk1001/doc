@@ -32,7 +32,7 @@ This type of attribution used only in stores that support referrer for example (
 
 7.	Our App tracking system takes the data and matching the install data with click data.
 
-<img src="{{ site.url }}/images/infografica-attributtion-type.jpg" alt="Drawing" style="width: 550px; height:478px"/>
+![](../images/infografica-attributtion-type.jpg)
 
 
 ####2)	Identifier matching
@@ -50,8 +50,7 @@ This type of attribution used only in app-to-app model and in any Store you want
 
 5.	After that ATS matching click and install with help of the user advertising ID
 
-<img src="{{ site.url }}/images/advertising-id.jpg" alt="Drawing" style="width: 550px; height:478px"/>
-
+![](../images/advertising-id.jpg)
 
 ####3)	Fingerprint Matching
 This method used in both app-to-app and web-to-app models.
@@ -68,6 +67,5 @@ This method used in both app-to-app and web-to-app models.
 
 5.	ATS matching click data with install data by device Fingerprint.
 
-<img src="{{ site.url }}/images/fingerprint.jpg" alt="Drawing" style="width: 550px; height:478px"/>
-
+![](../images/fingerprint.jpg)
 
