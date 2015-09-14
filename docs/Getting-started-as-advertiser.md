@@ -2,12 +2,13 @@
 
 1.Sign up in our website
 
-<img src="{{ site.url }}/images/1-step.jpg"/>
+![](../images/1-step.jpg)
 
 
 2.When account manager will approve your account, we provide you an access to our system.
 
-<img src="{{ site.url }}/images/2-step.jpg"/>
+![](../images/2-step.jpg)
 
 3.When you will get into the system, click on Browse all. Here you can see company accounts, applications and advertiser campaigns, advertiser and publisher offers.
 
+![](../images/3-step.jpg)
