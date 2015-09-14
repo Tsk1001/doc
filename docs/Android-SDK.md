@@ -1,9 +1,3 @@
----
-layout: page
-title: "Android SDK"
-category: sdk
-order: 1
----
 
 ####AdRout SDK
 
@@ -87,7 +81,9 @@ After your application downloaded from GooglePlay Store, a Play Market app sends
 
 *Include the following code into your AdnroidManifest.xml in Application section:*
 
-  <receiver android:name="net.adrout.trackingsdk.ReferrerReceiver"
+ 
+```
+<receiver android:name="net.adrout.trackingsdk.ReferrerReceiver"
   
             android:exported="true" android:enabled="true">
             
@@ -97,7 +93,7 @@ After your application downloaded from GooglePlay Store, a Play Market app sends
                 
             </intent-filter>
             
-  </receiver>
+  </receiver>```
   
 AdRout SDK is friendly and may exist with other tracking and analysis systems SDK. If your application have multiple broadcast receivers for INSTALL_REFERRER, AdRout’s ReferrerReceiver will pass referrer attribute to other receivers.
 
