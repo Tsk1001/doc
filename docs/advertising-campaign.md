@@ -1,9 +1,3 @@
----
-layout: page
-title: "Advertising campaign"
-category: gen
-order: 7
----
 
 * Creation of a new advertising campaign
 * Editing of the advertising company
@@ -16,8 +10,11 @@ Each application can have advertising campaigns. To open the list of the adverti
 * ####Creation of a new advertising campaign
 
 In the creation window fill:
+
 •	Choose your application
+
 •	Choose your Publisher
+
 •	Name of the advertising campaign will be generated automatically 
 
 Click on the **Create** button.
@@ -28,24 +25,24 @@ To continue the creation of advertising campaign, click on the **Settings**.
 
 Fill empty fields:
 
-*Amount of hours to wait app install – begin from Transaction Start Event
+* **Amount of hours to wait app install** – begin from Transaction Start Event
 
-*Timezone offset – All data are collected regarding the timezone and reports are generated according to timezone
+* **Timezone offset** – All data are collected regarding the timezone and reports are generated according to timezone
 
-*Quality assurance - provides with information about transactions quality. Read more
+* **Quality assurance** - provides with information about transactions quality. Read more
 
-*Postback send type – defines the postback send type to publisher
+* **Postback send type** – defines the postback send type to publisher
 
-*Postback URL – postback URL generated automatically by our system. Read more about Postback URL
+* **Postback URL** – postback URL generated automatically by our system. Read more about Postback URL
 
-*Transaction Start event – impression or redirect(click)
+* **Transaction Start event** – impression or redirect(click)
 
-*Transaction Conversion event – app install or engagement 
+* **Transaction Conversion event** – app install or engagement 
 
-*HTTP redirect code – it is the redirect type. Read more
+* **HTTP redirect code** – it is the redirect type. Read more
 
-*Redirect method – read more 
+* **Redirect method** – read more 
 
-*Cap daily conversion - the maximum daily amount of conversions
+* **Cap daily conversion** - the maximum daily amount of conversions
 
-*Cap daily payout - the maximum daily amount of payout
+* **Cap daily payout** - the maximum daily amount of payout
