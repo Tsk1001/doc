@@ -1,9 +1,4 @@
----
-layout: page
-title: "Applications"
-category: gen
-order: 2
----
+
 * Create an application
 * Application settings
 * SDK Integration
