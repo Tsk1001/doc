@@ -7,5 +7,6 @@
 * [General information](docs/chapter2.md)
    * [Company account](docs/company_account.md)
    * [Applications](docs/Applications.md)
+   * Advertising Campaign
 * SDK Integration
 
