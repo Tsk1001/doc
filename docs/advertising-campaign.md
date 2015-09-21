@@ -46,3 +46,23 @@ Fill empty fields:
 * **Cap daily conversion** - the maximum daily amount of conversions
 
 * **Cap daily payout** - the maximum daily amount of payout
+
+
+ ####Adding and setting the targeting
+Each advertising  campaign can have one or several targets. You can add new targets only when your advertising campaign is inactive. 
+
+To add new target go to: *browse all>advertising campaigns>choose your campaign> Targets>Add*
+
+Opens the tab with targeting settings with these fields:
+
+* **Price** - is only one for each target. Required field entry
+
+* **Platform** – is only one for each target. Required field entry
+
+* **Device type** - can be from 0 to 3. Not required input field
+
+* **Languages** - may be several. Not required field
+
+* **Country** - You can add several countries. Not required field
+
+And click on the **SAVE** button
