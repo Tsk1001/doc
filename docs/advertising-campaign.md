@@ -3,11 +3,11 @@
 * Editing of the advertising company
 * Adding and setting the targeting
 * Activation of the advertising company
-* View detailed information of the campaign
+
 
 Each application can have advertising campaigns. To open the list of the advertising campaigns go to: *browse all > advertising campaigns*. To create new advertising campaign, click on the button **NEW**
 
-* ####Creation of a new advertising campaign
+####Creation of a new advertising campaign
 
 In the creation window fill:
 
@@ -19,7 +19,7 @@ In the creation window fill:
 
 Click on the **CREATE** button.
 
-* ####Editing of the advertising company
+####Editing of the advertising company
 
 To continue the creation of advertising campaign, click on the **SETTINGS**.
 
