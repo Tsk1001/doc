@@ -11,6 +11,33 @@ Also  the Advertiser has an opportunity  to find a publisher with the help of th
 
 ####Adding a new App offer
 
+To add a new App Offer, you should go to: *Browse all> App offers* and click on the button **CREATE** App offer. And you will get into the Creation Window. 
+
+Here you could add fields:
+
+*	Choose application
+
+*	Add the description
+
+*	Add the targets
+
+When you will add the targets, please fill these fields:
+
+*	Price - is only one for each target. Required field entry
+
+*	Platform – is only one for each target. Required field entry
+
+*	Device type - can be from 0 to 3. Not required input field
+
+*	 Languages - may be several. Not required field
+
+*	 Country - You can add several countries. Not required field
+
+And click on the **SAVE** button. 
+
+You have an opportunity to add several targets.
+To finish the creation, click on the button **CREATE APP OFFER**.
+After that, you can see all your App offers.
 
 
 ####Editing  of the App offer
