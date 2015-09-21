@@ -10,3 +10,15 @@ If the Advertiser does not know with whom  he will work or want to find a new pu
 Also  the Advertiser has an opportunity  to find a publisher with the help of the list with publisher offers. Read more about this here
 
 ####Adding a new App offer
+
+
+
+####Editing  of the App offer
+
+
+
+####Creating an advertising campaign based on the App offer
+
+
+
+####Searching for new publishers in Publisher offers
