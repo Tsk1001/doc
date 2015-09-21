@@ -11,6 +11,7 @@
    * [Additional Parameters](docs/Additional-parameters.md)
    * [Tracking Link](docs/tracking-link.md)
    * [Attribution Types](docs/attribution-types.md)
+   * App offer for advertiser
 * [SDK Integration](sdk_integration.md)
    * [Android SDK](docs/Android-SDK.md)
 
