@@ -74,5 +74,5 @@ To activate the advertising campaign you should go to: *browse all>advertising c
 
 ![](../images/activation.jpg)
 
-Till this moment, your advertising campaign will start the activation. To see the status of the campaign, you can go to the information about the application and view the status of the campaign.
+After this moment, your advertising campaign will start the activation. To see the status of the campaign, you can go to the information about the application and view the status of the campaign.
 
