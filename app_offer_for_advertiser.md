@@ -23,15 +23,15 @@ Please fill next fields:
 
 When you will add the targets, please fill these fields:
 
-*	Price - is only one for each target. Required field entry
+*	**Price** - is only one for each target. Required field entry
 
-*	Platform – is only one for each target. Required field entry
+*	**Platform** – is only one for each target. Required field entry
 
-*	Device type - can be from 0 to 3. Not required input field
+*	**Device type** - can be from 0 to 3. Not required input field
 
-*	 Languages - may be several. Not required field
+*	 **Languages** - may be several. Not required field
 
-*	 Country - You can add several countries. Not required field
+*	 **Country** - You can add several countries. Not required field
 
 And click on the **SAVE** button. 
 
