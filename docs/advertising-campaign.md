@@ -72,5 +72,7 @@ And click on the **SAVE** button
 
 To activate the advertising campaign you should go to: *browse all>advertising campaigns>choose your campaign* and you will see the panel above the information, where is the button **ACTIVATE**
 
+![](../images/activation.jpg)
+
 Till this moment, your advertising campaign will start the activation. To see the status of the campaign, you can go to the information about the application and view the status of the campaign.
 
