@@ -11,11 +11,11 @@ Also  the Advertiser has an opportunity  to find a publisher with the help of th
 
 ####Adding a new App offer
 
-To add a new App Offer, you should go to: *Browse all> App offers* and click on the button **CREATE** App offer. And you will get into the Creation Window. 
+To add a new App Offer, you should go to: *Browse all> App offers* and click on the button **CREATE** App offer. You will get into the Creation Window. 
 
-Here you could add fields:
+Please fill next fields:
 
-*	Choose application
+*	Choose the application
 
 *	Add the description
 
