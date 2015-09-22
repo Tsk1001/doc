@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Gettting Started
+* [Gettting Started](gettting_started.md)
    * [As Advertiser](docs/getting-started-as-advertiser.md)
    * [As Publisher](docs/getting-started-as-publisher - Copy.md)
 * General information
