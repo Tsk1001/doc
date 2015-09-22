@@ -4,7 +4,7 @@
 * Gettting Started
    * [As Advertiser](docs/getting-started-as-advertiser.md)
    * [As Publisher](docs/getting-started-as-publisher - Copy.md)
-* [General information](docs/chapter2md.md)
+* General information
    * [Company account](docs/company_account.md)
    * [Applications](docs/Applications.md)
    * [Advertising Campaign](docs/advertising-campaign.md)
