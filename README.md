@@ -1,4 +1,5 @@
-AdRout  ![](../images/logo.png) Documentation
+ ![](../images/logo.png)
+ Documentation
 =======
 
 AdRout LLC is an advertising platform, which provides our clients an opportunity to advertise and monetize. We are dedicated to creating a great marketplace, where our clients could grow and improve their mobile and web business. Our mission is to find for our clients the most reliable partners and to provide with the safely connection of advertisers and publishers.
