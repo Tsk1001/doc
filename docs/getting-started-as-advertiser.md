@@ -14,7 +14,7 @@
 
 4.Open *company accounts>choose your account>settings* and fill empty fields with company information [Read more about company account](http://docs.adrout.net/gen/gen-1-1-Company-Account.html "Read more")
 
-5.Open Applications > New and create new application [Read more about applications](/docs/applications.html)
+5.Open Applications > New and create new application [Read more about applications](/applications.html)
 
 6.To start advertising campaign, go to *browse all > advertising campaigns and Create new advertising campaign [Read more about advertising campaigns](http://docs.adrout.net/gen/1-2-Applications.html "Read more")
 
