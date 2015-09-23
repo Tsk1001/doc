@@ -57,7 +57,7 @@ This solutions helps to understand what kind of traffic you get. If Quality assu
 It allows seeing the “clean” data about a particular transaction. 
 
 #Redirect method
-Javascript( to collect data for quality assurance) or HTML   
+Java Script( to collect data for quality assurance) or HTTP   
 
 #Transactions
 Is a group of operations that consist of impression, click and install.
