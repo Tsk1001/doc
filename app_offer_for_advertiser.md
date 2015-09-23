@@ -42,14 +42,13 @@ After that, you can see all your App offers.
 
 ####Editing  of the App offer
 
-
-
-####Creating an advertising campaign based on the App offer
-
 To edit your app offer, go to: *browse all > App offers > My app offers*. 
 
 From the list of offers choose your offer and you will get into the detailed information about the offer. To change the information about your app offer, please click on the button EDIT. Then you will get into the tab, where you could edit all details and targets. 
 
 To finish the editing please click on the button **SAVE**
+
+####Creating an advertising campaign based on the App offer
+
 
 ####Searching for new publishers in Publisher offers
