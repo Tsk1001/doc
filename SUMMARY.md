@@ -15,5 +15,5 @@
 * [SDK Integration](1sdk_integration.md)
    * [Android SDK](docs/Android-SDK.md)
 * [Additional information](additional_information.md)
-   * Postback Fraud
+   * [Postback Fraud](postback_fraud.md)
 
