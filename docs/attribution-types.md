@@ -1,4 +1,4 @@
-
+рупу
 To attribute and measure the transactions (installs, clicks, impressions), AdRout App Tracking System (ATS) uses three types of attribution:
 
 •	Store referrer 
