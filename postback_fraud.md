@@ -6,3 +6,8 @@ Postback is one of the most reliable and quick way of tracking conversions. Post
 
 ![](postback-tracking.jpg)
 
+**What is Postback Fraud?**
+
+Postback Fraud – is when the Traffic Source trying your app tracking system to count the conversion, while this conversion wasn’t really exist. In this case, scammers know where they could get the transaction ID and where they have to send the postback without advertiser approve. In this way, scammers automatically generate the transaction ID and send the postback to the end point of your system and therefore the advertiser doesn’t see the transaction.
+
+![](postback-fraud.jpg)
