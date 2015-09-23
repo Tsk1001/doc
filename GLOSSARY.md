@@ -51,13 +51,13 @@ Is a URL request to a third-party system that notifies them of a conversion (typ
 It can be Auto, Manual and Do not send
 
 #Quality assurance
-This solutions helps to understand what kind of traffic you get. If Quality assurance is OFF, you should put HTML in redirect method.  
+This solutions helps to understand what kind of traffic you get. If Quality assurance is OFF, you should put HTTP in redirect method.  
 
 #Raw Data
 It allows seeing the “clean” data about a particular transaction. 
 
 #Redirect method
-Java Script( to collect data for quality assurance) or HTTP   
+Java Script( to collect data for quality assurance) or HTTP.  If Quality assurance is OFF, you should put HTTP in redirect method.    
 
 #Transactions
 Is a group of operations that consist of impression, click and install.
