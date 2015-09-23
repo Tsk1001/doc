@@ -14,4 +14,5 @@
    * [App offer for  the Advertiser](app_offer_for_advertiser.md)
 * [SDK Integration](1sdk_integration.md)
    * [Android SDK](docs/Android-SDK.md)
+* Additional information
 
