@@ -48,6 +48,7 @@ From the list of offers choose your offer and you will get into the detailed inf
 
 To finish the editing please click on the button **SAVE**
 
+
 ####Creating an advertising campaign based on the App offer
 
 
