@@ -18,7 +18,9 @@ Please, download the latest version of AdRout Tracking SDK **here** and unzip it
 
 ####How to use it
 
-Obtain the Application ID at http://dev-manage.adrout.net/. 
+Obtain the Application ID (Public ID) at http://dev-manage.adrout.net/. 
+
+![](public-id.jpg)
 
 Go on *browse all>applications>choose your application*, in Application information you will find the Application ID. The Application ID is an unique key that helps AdRout system to track your app installs. You should use only the ID assigned to your particular application within AdRout service.
 
