@@ -1,3 +1,4 @@
+#Tracking URL
 
 To get a Tracking URL for a publisher, you should go to: *browse all > Advertiser Campaigns > choose your campaign  and you can find the Tracking URL in the information about advertiser campaign.Or if you create a new advertiser campaign the system will generate a tracking URL automatically.
 
