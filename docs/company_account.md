@@ -34,6 +34,8 @@ In the account information, you could see:
 
 **Description** – where you could put useful information about your company
 
+![](company-account-information.jpg)
+
 And **detailed information** : address, city, zip code, phone, skype and website.
 
 
