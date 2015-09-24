@@ -41,7 +41,7 @@ And **detailed information** : address, city, zip code, phone, skype and website
  ####Account settings
 
 In account settings you have an opportunity to edit the account information, name of account and it’s description.
-If your account is acting as *Publisher*, you should set the  [Postback URL] (http://docs.adrout.net/gen/postback-URL.html "Postback URL"). 
+If your account is acting as *Publisher*, you should set the  Postback URL
 
 
 * ####Account Access
