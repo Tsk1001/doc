@@ -4,7 +4,7 @@ To get a Tracking URL for a publisher, you should go to: *browse all > Advertise
 Tracking URL will look like:
 http://dev-edge.adrout.net/red?cid=101
 
-
+![](../images/tracking-url.jpg)
 
 The Tracking URL contains couple of parts and each of them are important:
 
