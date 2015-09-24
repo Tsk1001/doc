@@ -1,4 +1,4 @@
-#How to start working with our system?
+#How to start working with our system as Publisher?
 
 1.Sign up in our website
 
