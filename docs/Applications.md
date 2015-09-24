@@ -7,6 +7,8 @@
 
 Each advertiser account can add new applications. To see the list of applications, you should follow : *Browse all > Applications*. 
 
+![](applications.jpg)
+
 * #### Create an application
 To create new application, you should follow: *Browse all > Applications* and click on the button New.
 Now you can see the window, where you could add the new APP. Write a name of the app (you could set it only once).  
