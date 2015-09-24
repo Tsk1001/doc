@@ -12,5 +12,5 @@
 
 ![](../images/3-step.jpg)
 
-4.Open *company accounts > choose your account > settings* and fill empty fields with company information [Read more about company account] (http://docs.adrout.net/gen/gen-1-1-Company-Account.html "Read more")
-
+4.Open *company accounts > choose your account > settings* and fill empty fields with company information [Read more about company account
+](http://docs.adrout.net/docs/company_account.html)
