@@ -13,7 +13,6 @@
    * [Additional Parameters](docs/Additional-parameters.md)
    * [Tracking  URL](docs/tracking-link.md)
    * [Attribution Types](docs/attribution-types.md)
-   * [Postback URL](postback_url.md)
 * [SDK Integration](1sdk_integration.md)
    * [Android SDK](docs/Android-SDK.md)
 * [Additional information](additional_information.md)
