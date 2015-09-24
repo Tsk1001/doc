@@ -1,8 +1,10 @@
 
-To create a Tracking URL for a publisher, you should go to: *browse all > Advertiser Campaigns > Create New* and Tracking URL will be generated automatically. There you can choose a publisher from the list and the system will generate a tracking URL for that Advertising Campaign and Publisher.
+To get a Tracking URL for a publisher, you should go to: *browse all > Advertiser Campaigns > choose your campaign  and you can find the URL Tracking in the information about advertiser campaign.Or if you create a new advertiser campaign the system will generate a tracking URL automatically.
 
 Tracking URL will look like:
-http://edge.adrout.net/red?cid=101
+http://dev-edge.adrout.net/red?cid=101
+
+![](tracking-url.jpg)
 
 The Tracking URL contains couple of parts and each of them are important:
 
