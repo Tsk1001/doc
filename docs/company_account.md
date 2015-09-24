@@ -15,6 +15,7 @@ To see the list of the accounts, please follow : *browse all > accounts*.
 
 Here you could see all your accounts. When you click on it, you can see the account information, where you can click on Settings button and edit the information about account. If you have several accounts, you could swap them in your account information. If you click on the Access button, you could see there all shared accounts or create new one. Your account could be as Advertiser or as Publisher.
 
+![](company-account.jpg)
 
 * 
 ####Account Information
@@ -33,7 +34,7 @@ In the account information, you could see:
 
 **Description** – where you could put useful information about your company
 
-And **contact information** : address, city, zip code, phone, skype and website.
+And **detailed information** : address, city, zip code, phone, skype and website.
 
 
 * 
