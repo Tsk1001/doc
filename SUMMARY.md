@@ -9,7 +9,7 @@
    * [Applications](docs/Applications.md)
    * [Advertising Campaign](docs/advertising-campaign.md)
    * [Additional Parameters](docs/Additional-parameters.md)
-   * [Tracking Link](docs/tracking-link.md)
+   * [Tracking  URL](docs/tracking-link.md)
    * [Attribution Types](docs/attribution-types.md)
    * [App offer for  the Advertiser](app_offer_for_advertiser.md)
 * [SDK Integration](1sdk_integration.md)
