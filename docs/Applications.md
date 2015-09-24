@@ -1,9 +1,10 @@
+#Applications
 
 * Create an application
 * Application settings
 * SDK Integration
 
-###Applications
+
 Each advertiser account can add new applications. To see the list of applications, you should follow : *Browse all > Applications*. 
 
 * #### Create an application
