@@ -55,6 +55,8 @@ Each advertising  campaign can have one or several targets. You can add new targ
 
 To add new target go to: *browse all>advertising campaigns>choose your campaign> Targets>Add*
 
+**Please, read carefully about targets [here](http://docs.adrout.net/targets.html). **
+
 Opens the tab with targeting settings with these fields:
 
 * **Price** - is only one for each target. Required field entry
