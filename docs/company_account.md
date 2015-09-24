@@ -30,7 +30,7 @@ In the account information, you could see:
 
 **Owner** – shows the owner e-mail
 
-**Permissions** – shows the type of access to account. There are 3 types of permission: owner, edit, read
+**Permissions** – shows the type of access to account. There are 3 types of permission: owner, edit, read. Each permission assigned to concrete e-mail of person. 
 
 **Description** – where you could put useful information about your company
 
