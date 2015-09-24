@@ -1,10 +1,10 @@
 
-To get a Tracking URL for a publisher, you should go to: *browse all > Advertiser Campaigns > choose your campaign  and you can find the URL Tracking in the information about advertiser campaign.Or if you create a new advertiser campaign the system will generate a tracking URL automatically.
+To get a Tracking URL for a publisher, you should go to: *browse all > Advertiser Campaigns > choose your campaign  and you can find the Tracking URL in the information about advertiser campaign.Or if you create a new advertiser campaign the system will generate a tracking URL automatically.
 
 Tracking URL will look like:
 http://dev-edge.adrout.net/red?cid=101
 
-![](tracking-url.jpg)
+
 
 The Tracking URL contains couple of parts and each of them are important:
 
