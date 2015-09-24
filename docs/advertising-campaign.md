@@ -35,7 +35,7 @@ Fill empty fields:
 
 * **Postback send type** – defines the postback send type to publisher
 
-* **Postback URL** – postback URL generated automatically by our system. Read more about Postback URL
+* **Postback URL** – postback URL is copied from publishers settings. 
 
 * **Transaction Start event** – impression or redirect(click)
 
