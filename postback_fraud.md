@@ -31,4 +31,6 @@ This approach helps pretty easy to fight with scammers, but it has several issue
 
 ##### 2. Our solution
 
-Our system creates a secret key, as a string, that is uniquely generated for the Advertiser. This secret key is added, when you configure a postback. In this case, a postback is sent with secret key to our server. Then the system match them and if secret keys are the same, the system counts the postback. 
+Our system creates a secret key, as a string, that is uniquely created for the Advertiser. This secret key is added, when you configure a postback. In this case, a postback is sent with secret key to our server. Then the system match them and if secret keys are the same, the system counts the postback. 
+
+First, you need to configure for each campaign a unique key. We recommend using 128 bit base-64 encoded unique key. After that, when you will set a postback on the advertiser side, you have to add this secret key. When a postback is sent, our system will check the secret keys on the both sides and if they match, the event will be counted.
