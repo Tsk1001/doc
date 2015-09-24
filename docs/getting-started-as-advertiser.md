@@ -17,6 +17,6 @@
 
 5.Open Applications > New and create new application [Read more about applications](/Applications.html)
 
-6.To start advertising campaign, go to *browse all > advertising campaigns and Create new advertising campaign [Read more about advertising campaigns](http://docs.adrout.net/gen/1-2-Applications.html "Read more")
+6.To start advertising campaign, go to *browse all > advertising campaigns and Create new advertising campaign [Read more about advertising campaigns](http://docs.adrout.net/docs/advertising-campaign.html)
 
 7.TO run the advertising campaign you have to implement the adRout's SDK into your APP, [Read more about SDK](/Android-SDK.html)
