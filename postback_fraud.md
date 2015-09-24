@@ -27,7 +27,6 @@ This approach helps pretty easy to fight with scammers, but it has several issue
 
 **2)**	You need to keep them up to date all the time. It means that IP address could often changes and you should always update whitelist. 
 
-![](whitelist.jpg)
 
 ##### 2. Our solution
 
