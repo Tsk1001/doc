@@ -17,5 +17,5 @@
    * [Android SDK](docs/Android-SDK.md)
 * [Additional information](additional_information.md)
    * [Postback Fraud](postback_fraud.md)
-   * App Referrer Fraud
+   * [App Referrer Fraud](app_referrer_fraud.md)
 
