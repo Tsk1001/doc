@@ -9,5 +9,4 @@ Let’s consider the situation: The Traffic Source collaborated with the adverti
 ### How do we fight with this type of fraud?
 
 
-
 When somebody click on the advertisement, the referrer parameter transmitted with the name of the application from which was produces click. Then we collect the information about user who have installed the application. From this information, we get the list of installed applications on the users’ device. After that, our system compare the name of the application in the referrer parameter with names of applications on the users’ device. If there is no the application on that device – our system will inform the Advertiser.
