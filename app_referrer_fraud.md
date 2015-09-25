@@ -8,7 +8,7 @@ Let’s consider the situation: The Traffic Source collaborated with the adverti
 
 ### How it have to be
 
-
+![](app-referrer.jpg)
 
 And it turns out that the Traffic Source uses traffic from the 3rd party systems, not from his applications. As a result, this is a low quality traffic 
 
