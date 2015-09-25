@@ -1,26 +1,26 @@
 
-# Account Public Id
-It is an unique identifier that is used to define the accounts inside the system.   
+# Account Public ID
+It is a unique identifier that is used to define the accounts inside the system.   
 
 # Advertiser 
 Is the APPs owner who is looking to promote his applications and pays publishers for sending traffic to their APPs to purchase, lead generation or installs.
 
-# Advertising campaign
+# Advertising Campaign
 Is an advertising message about the app, which is promoting by publishers. Advertising campaigns can have several targetings and each targeting have only one price.
 
 # Application or APP
 It is a mobile or desktop application that will be promoted.
 
-# Application offer
-It is an offer from the advertiser, where he put all information about the APP and how he want to advertise it.
+# Application Offer
+It is an offer from the advertiser, where he put all information about the APP and on what conditions does he want to advertise it.
 
-#Application public Id
+#Application Public ID
 It is an identifier, which is used between the stages of the transaction
 
-#Campaign performance
+#Campaign Performance
 It is a report of productivity of the advertising 
 
-#Company accounts
+#Company Accounts
 It is the main source, from which begin the interaction with our system, where you could manage setting. In company account is collected all data about company.
 
 #Default redirect URL
