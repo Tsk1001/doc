@@ -3,7 +3,7 @@
 It is an unique identifier that is used to define the accounts inside the system.   
 
 # Advertiser 
-Is the APPs owner who pays publishers for sending traffic to their APPs to purchase or generate leads.
+Is the APPs owner who is looking to promote his applications and pays publishers for sending traffic to their APPs to purchase or generate leads.
 
 # Advertising campaign
 Is an advertising message about the app, which is promoting by publishers. Advertising campaigns can have several targetings and each targeting have only one price.
