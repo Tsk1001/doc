@@ -3,14 +3,7 @@
 
 
 
-Let’s consider the situation: The Traffic Source collaborated with the advertiser. The Traffic Source says to the advertiser that he has a list of applications, where he will advertise the application of the advertiser. The advertising campaign starts. 
-
-
-### How it have to be
-
-![](app-referrer.jpg)
-
-And it turns out that the Traffic Source uses traffic from the 3rd party systems, not from his applications. As a result, this is a low quality traffic 
+Let’s consider the situation: The Traffic Source collaborated with the advertiser. The Traffic Source says to the advertiser that he has a list of applications, where he will advertise the application of the advertiser. The advertising campaign starts.And it turns out that the Traffic Source uses traffic from the 3rd party systems, not from his applications. As a result, this is a low quality traffic 
 
 
 ### How do we fight with this type of fraud?
