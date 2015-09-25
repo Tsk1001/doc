@@ -1,6 +1,6 @@
 
 # Account Public Id
-It is an identifier that is used to define the accounts inside the system.   
+It is an unique identifier that is used to define the accounts inside the system.   
 
 # Advertiser 
 Is the APPs owner who pays publishers for sending traffic to their APPs to purchase or generate leads.
