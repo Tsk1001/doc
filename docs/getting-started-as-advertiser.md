@@ -9,7 +9,7 @@
 
 ![](../images/2-step.jpg)
 
-3.When you will get into the system, click on Browse all. Here you can see company accounts, applications and advertiser campaigns, advertiser and publisher offers.
+3.When you will get into the system, click on Browse all. Here you can see company accounts, applications and advertising campaigns, advertiser offers and publisher offers.
 
 ![](../images/3-step.jpg)
 
