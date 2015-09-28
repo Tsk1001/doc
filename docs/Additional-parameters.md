@@ -13,12 +13,12 @@ AdRout provide an opportunity to add the additional parameters
 | EventOrigin |evor |  |  | The origin of the event of the transaction. |
 | Events |evnts |  |  | The collection of the events within the transaction. |
 | EventType| evtp |  | | The type of the event of the transaction. |
-| HasConversion | hcon |  |  | The boolean flag which indicates whether there is an <see cref="AppAdvertising.EventType.Install" /> event within the transaction |
-| HasEngagement | heng |  |  | The boolean flag which indicates whether there is an <see cref="AppAdvertising.EventType.Engagement" /> event within the transaction. |
-| HasImpression | himp |  |  |The boolean flag which indicates whether there is an <see cref="AppAdvertising.EventType.Impression" /> event within the transaction. |
-| HasInstall | hins |  |  | The boolean flag which indicates whether there is an <see cref="AppAdvertising.EventType.Install" /> event within the transaction. |
-| HasRedirect | hred | | | The boolean flag which indicates whether there is a <see cref="AppAdvertising.EventType.Redirect" /> event within the transaction. |
-| HasReject | hrej |  |  | The boolean flag which indicates whether there is a <see cref="AppAdvertising.EventType.Reject" /> event within the transaction. |
+| HasConversion | hcon |  |  | The boolean flag which indicates whether there is an  event within the transaction |
+| HasEngagement | heng |  |  | The boolean flag which indicates whether there is an  event within the transaction. |
+| HasImpression | himp |  |  |The boolean flag which indicates whether there is an  event within the transaction. |
+| HasInstall | hins |  |  | The boolean flag which indicates whether there is an  event within the transaction. |
+| HasRedirect | hred | | | The boolean flag which indicates whether there is a  event within the transaction. |
+| HasReject | hrej |  |  | The boolean flag which indicates whether there is a  event within the transaction. |
 | Id | _id |  |  | The unique identifier of the transaction within the campaign within the service. |
 | IpAddress | ip |  |  | The IPv6 address of the device which has initiated the transaction |
 | Language | lang |  |  | The identifier of the language as defined in <a href='https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes'>ISO 639-1</a>. |
