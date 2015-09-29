@@ -23,15 +23,15 @@ This type of attribution used only in stores that support referrer for example (
 
 2.	User redirected to AdRout App tracking system
 
-3.	User redirected to Store with help of tracking (destination) URL + referrer
+3.	User redirected to the Store with the help of the tracking (destination) URL + referrer
 
 4.	User install the APP
 
-5.	When user run the APP, Store passes the referrer parameters associated with install, including transactions ID into the APP.
+5.	When user run the APP, the Store passes the referrer parameters associated with install, including transactions ID into the APP.
 
-6.	SDK inside the APP, send to AT system data. 
+6.	SDK inside the APP, send to the AT system data. 
 
-7.	Our App tracking system takes the data and matching the install data with click data.
+7.	Our App tracking system takes the data and matching the install data with the click data.
 
 ![](../images/infografica-attributtion-type.jpg)
 
