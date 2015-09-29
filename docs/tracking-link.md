@@ -20,7 +20,7 @@ In addition, you have an opportunity to add other parameters, such as:
    1.	for apple this parameter called as IDFA  and it will be look like: AEBE52E7-03EE-455A-B3C4-E57283966239.  
    2. For google this parameter called as Google AID and it will be look like: 4c30c866-30d6-4418-a6dc-0f702747bf58
    3.	For Microsoft this parameter called as Windows Advertising Identifier and it will be look like :  776c5de673d2c4n6c8828v27s7382dh3
-*	ref=yourcompany – Referrer is the optional parameter, that provide the information about the resource (for example: website or app) on which your APP is promoting. Yourcompany – is the example of referrer. In case of app-to-app model in referrer should be the name of package – the unique APP identifier. The app identifier would be different for each device platform, for example:
+*	ref=yourtrafficsource – Referrer is the optional parameter, that provide the information about the resource (for example: website or app) on which your APP is promoting. yourtrafficsource – is the example of referrer. In case of app-to-app model in referrer should be the name of package – the unique APP identifier. The app identifier would be different for each device platform, for example:
    1.	For apple it would be look like: A1B2C3D4E5.domainname.applicationname
    2.	For google it would be look like : com.game.plane.client
    3.	For Microsoft it would be look like : 965722bc-t087-5a77-abab-121c2b43202e
