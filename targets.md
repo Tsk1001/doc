@@ -17,7 +17,7 @@ When you add more than one target in the advertising campaign, it is important i
 
 ![](images/target-2.jpg)
 
-2) In this case, if person using the iPhone and with the languages og this group : AV, ZH, IT  make the conversion, it will be counted in the second targeting.
+2) In this case, if person using the iPhone  with the languages of this group : AV, ZH, IT  make the conversion, it will be counted in the second targeting.
 
 ![](images/targets-3.jpg)
 
